@@ -99,3 +99,4 @@ You'll be defining the following methods as **class methods** on the `Show` clas
 - [Calculations](http://guides.rubyonrails.org/active_record_querying.html#calculations)
 - [Ordering](http://guides.rubyonrails.org/active_record_querying.html#ordering)
 - [Conditions](http://guides.rubyonrails.org/active_record_querying.html#conditions)
+# Phase3ActiveRecordQuerying
